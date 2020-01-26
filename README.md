@@ -1,3 +1,8 @@
+# Introduction 
+This is my OECD Visualization assignment for my Storytelling with Data class at Carnegie Mellon University. The goal of this assignment is to experiment with different representations of the same data set, and understand how data narratives can vary with each visualization.
+
+The first visualization (bar chart) is from [OECD](https://data.oecd.org/gga/general-government-debt.htm), focused on just the year 2015. The second (beeswarm) and third (streamgraph) are both created using [rawgraph.io](https://rawgraphs.io/), with an expanded Government Debt dataset from OECD, covering data from 1995 to 2018.
+
 # 1st visualization, Bar Chart
 
 General Government Debt Total, % of GDP, 2015
